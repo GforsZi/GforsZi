@@ -18,10 +18,10 @@ Berpengalaman menggunakan berbagai teknologi untuk membangun aplikasi modern den
 
 <p align="center">
   <a href="https://github.com/fors">
-    <img src="https://github-readme-stats.vercel.app/api?username=fors&show_icons=false&theme=default&hide_border=true&count_private=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=GforsZi&show_icons=false&theme=default&hide_border=true&count_private=true" width="48%" />
   </a>
   <a href="https://github.com/fors">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fors&theme=default&hide_border=true" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GforsZi&theme=default&hide_border=true" width="48%" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@ Berpengalaman menggunakan berbagai teknologi untuk membangun aplikasi modern den
 
 <p align="center">
   <a href="https://github.com/fors">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fors&theme=github-light&hide_border=true&area=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GforsZi&theme=github-light&hide_border=true&area=true" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@ Berpengalaman menggunakan berbagai teknologi untuk membangun aplikasi modern den
 
 <p align="center">
   <a href="https://github.com/fors">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fors&layout=compact&theme=default&hide_border=true&langs_count=8" width="60%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GforsZi&layout=compact&theme=default&hide_border=true&langs_count=8" width="60%" />
   </a>
 </p>
 
@@ -59,9 +59,8 @@ Berpengalaman menggunakan berbagai teknologi untuk membangun aplikasi modern den
 ---
 
 ## Kontak
-- GitHub: [fors](https://github.com/fors)  
-- LinkedIn: [Profil LinkedIn Anda]  
-- Email: [Alamat Email Anda]  
+- GitHub: [GforsZi](https://github.com/GforsZi)  
+- Email:   givaldigumelarsetiawan@gmail.com
 
 ---
 
