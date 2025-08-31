@@ -7,7 +7,7 @@ Berpengalaman menggunakan berbagai teknologi untuk membangun aplikasi modern den
 ---
 
 ## Tentang Saya
-- Backend Developer dengan pengalaman dalam pengembangan aplikasi berbasis **Laravel, Express, dan Prisma**.  
+- Backend Developer dengan pengalaman dalam pengembangan aplikasi berbasis **Laravel, Express, dan Nextjs**.  
 - Terbiasa bekerja dengan **MySQL, PostgreSQL, dan SQLite**.  
 - Tertarik pada **sistem terdistribusi, optimasi performa, dan cloud infrastructure**.  
 - Menggunakan **Linux (Kali/Ubuntu) dan Windows 11** sebagai sistem utama.  
@@ -53,8 +53,8 @@ Berpengalaman menggunakan berbagai teknologi untuk membangun aplikasi modern den
 |--------------------|---------------------------------------------------------------------------|
 | **Backend**        | REST API dengan autentikasi JWT, multi-role system, database relational   |
 | **Database**       | Perancangan schema efisien, optimasi query, implementasi migration        |
-| **DevOps**         | Deployment di VPS, CI/CD sederhana dengan GitHub Actions                  |
-| **Proyek Pribadi** | Sistem Inventaris, Aplikasi Perpustakaan, dan Platform Kasir Sederhana    |
+| **DevOps**         | Deployment di Hosting, CI/CD sederhana dengan GitHub Actions              |
+| **Proyek Pribadi** | Sistem Inventaris, Aplikasi Perpustakaan, dan Sistem api Sederhana        |
 
 ---
 
