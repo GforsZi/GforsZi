@@ -20,9 +20,6 @@ Berpengalaman menggunakan berbagai teknologi untuk membangun aplikasi modern den
   <a href="https://github.com/GforsZi">
     <img src="https://github-readme-stats.vercel.app/api?username=GforsZi&show_icons=false&theme=dark&hide_border=true&count_private=true" width="48%" />
   </a>
-  <a href="https://github.com/GforsZi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GforsZi&theme=dark&hide_border=true" width="48%" />
-  </a>
 </p>
 
 ---
