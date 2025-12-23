@@ -9,7 +9,7 @@
 ## About me
 <div align="center">
   <a href="https://github.com/GforsZi">
-    <img src="https://res.cloudinary.com/dytsbyzd7/image/upload/v1766395313/terminal_hvlie5.gif" />
+    <img src="https://res.cloudinary.com/dytsbyzd7/image/upload/v1766460017/terminal_introduction_me_racit8.gif" />
   </a>
 </div>
 
@@ -24,7 +24,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/GforsZi">
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,ts,npm,express,next,postman" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,ts,pnpm,express,next,postman" />
   </a>
 </p>
 <p align="center">
@@ -36,9 +36,8 @@
 ---
 
 ## My contact
-- [🐱] GitHub: [GforsZi](https://github.com/GforsZi)  
 - [📧] Email:   givaldigumelarsetiawan@gmail.com
-- [🌐]Website: https://next-protofolio-app.vercel.app
+- [🌐] Website: https://next-protofolio-app.vercel.app
 
 ---
 
