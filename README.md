@@ -39,13 +39,6 @@
 - [📧] Email:   givaldigumelarsetiawan@gmail.com
 - [🌐] Website: https://next-protofolio-app.vercel.app
 
----
-
-<p align="center">
-  <a href="https://github.com/GforsZi">
-    <img src="https://count.getloli.com/@well?name=well&theme=booru-lewd&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
-  </a>
-</p>
 
 <!--
 **GforsZi/GforsZi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
