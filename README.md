@@ -19,17 +19,17 @@
 
 <p align="center">
   <a href="https://github.com/GforsZi">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vue,vite" />
+    <img src="https://skillicons.dev/icons?i=tailwind,react,vue,vite" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/GforsZi">
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,ts,pnpm,express,next,postman" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,ts,express,next, prisma" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/GforsZi">
-    <img src="https://skillicons.dev/icons?i=windows,linux" />
+    <img src="https://skillicons.dev/icons?i=windows,linux, neovim" />
   </a>
 </p>
 
