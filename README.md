@@ -24,12 +24,12 @@
 </p>
 <p align="center">
   <a href="https://github.com/GforsZi">
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,ts,express,next, prisma" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,ts,express,next,prisma" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/GforsZi">
-    <img src="https://skillicons.dev/icons?i=windows,linux, neovim" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,neovim" />
   </a>
 </p>
 
