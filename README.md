@@ -17,21 +17,46 @@
 
 ## My techstack
 
-<p align="center">
-  <a href="https://github.com/GforsZi">
-    <img src="https://skillicons.dev/icons?i=tailwind,react,vue,vite" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/GforsZi">
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,ts,express,next,prisma" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/GforsZi">
-    <img src="https://skillicons.dev/icons?i=windows,linux,neovim" />
-  </a>
-</p>
+<table width="100%">
+  <tr style="border: none;">
+    <td align="left">
+      <a href="https://github.com/GforsZi">
+        <img src="https://skillicons.dev/icons?i=tailwind,react,vue,vite" />
+      </a>
+    </td>
+    <td align="right" >
+      <a href="https://github.com/GforsZi">
+        <img src="https://skillicons.dev/icons?i=mysql,prisma,firebase,supabase" />
+      </a>
+    </td>
+  </tr>
+    <tr style="border: none;">
+    <td align="left">
+      <a href="https://github.com/GforsZi">
+        <img src="https://skillicons.dev/icons?i=php,nodejs,ts,py" />
+      </a>
+    </td>
+    <td align="right">
+      <a href="https://github.com/GforsZi">
+        <img src="https://skillicons.dev/icons?i=laravel,express,next,fastapi" />
+      </a>
+    </td>
+  </tr>
+    </tr>
+    <tr style="border: none;">
+    <td align="left">
+      <a href="https://github.com/GforsZi">
+        <img src="https://skillicons.dev/icons?i=windows,vscode,linux,neovim" />
+      </a>
+    </td>
+    <td align="right">
+      <a href="https://github.com/GforsZi">
+        <img src="https://skillicons.dev/icons?i=bash,git,docker" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
