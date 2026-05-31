@@ -7,7 +7,7 @@
 
 
 ## About me
-<div align="center">
+<div>
   <a href="https://github.com/GforsZi">
     <img src="https://res.cloudinary.com/dytsbyzd7/image/upload/v1766460017/terminal_introduction_me_racit8.gif" />
   </a>
@@ -17,7 +17,7 @@
 
 ## My techstack
 
-<table width="100%">
+<table>
   <tr style="border: none;">
     <td align="left">
       <a href="https://github.com/GforsZi">
