@@ -33,7 +33,7 @@
     <tr style="border: none;">
     <td align="left">
       <a href="https://github.com/GforsZi">
-        <img src="https://skillicons.dev/icons?i=php,nodejs,ts,py" />
+        <img src="https://skillicons.dev/icons?i=php,nodejs,ts,py,go" />
       </a>
     </td>
     <td align="right">
@@ -62,7 +62,6 @@
 
 ## My contact
 - [📧] Email:   givaldigumelarsetiawan@gmail.com
-- [🌐] Website: https://next-protofolio-app.vercel.app
 
 
 <!--
