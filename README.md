@@ -26,7 +26,7 @@
     </td>
     <td align="right" >
       <a href="https://github.com/GforsZi">
-        <img src="https://skillicons.dev/icons?i=mysql,prisma,firebase,supabase" />
+        <img src="https://skillicons.dev/icons?i=redis,mysql,prisma,firebase,supabase" />
       </a>
     </td>
   </tr>
