@@ -1,11 +1,3 @@
-
-<div align="center">
-  <a href="https://github.com/GforsZi">
-    <img src="https://res.cloudinary.com/dytsbyzd7/image/upload/v1766388364/github-header-banner_njhtk1.png" />
-  </a>
-</div>
-
-
 ## About me
 <div>
   <a href="https://github.com/GforsZi">
