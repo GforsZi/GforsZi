@@ -16,21 +16,21 @@
         <img src="https://skillicons.dev/icons?i=tailwind,react,vue,vite" />
       </a>
     </td>
-    <td align="right" >
+    <td align="left" >
       <a href="https://github.com/GforsZi">
-        <img src="https://skillicons.dev/icons?i=redis,mysql,prisma,firebase,supabase" />
+        <img src="https://skillicons.dev/icons?i=mysql,prisma,redis,supabase,firebase" />
       </a>
     </td>
   </tr>
     <tr style="border: none;">
     <td align="left">
       <a href="https://github.com/GforsZi">
-        <img src="https://skillicons.dev/icons?i=php,nodejs,ts,py,go" />
+        <img src="https://skillicons.dev/icons?i=php,nodejs,py,ts,go" />
       </a>
     </td>
-    <td align="right">
+    <td align="left">
       <a href="https://github.com/GforsZi">
-        <img src="https://skillicons.dev/icons?i=laravel,express,next,fastapi" />
+        <img src="https://skillicons.dev/icons?i=laravel,express,fastapi,next" />
       </a>
     </td>
   </tr>
@@ -38,22 +38,16 @@
     <tr style="border: none;">
     <td align="left">
       <a href="https://github.com/GforsZi">
-        <img src="https://skillicons.dev/icons?i=windows,vscode,linux,neovim" />
+        <img src="https://skillicons.dev/icons?i=linux,neovim,windows,vscode" />
       </a>
     </td>
-    <td align="right">
+    <td align="left">
       <a href="https://github.com/GforsZi">
-        <img src="https://skillicons.dev/icons?i=bash,git,docker" />
+        <img src="https://skillicons.dev/icons?i=git,bash,docker" />
       </a>
     </td>
   </tr>
 </table>
-
-
----
-
-## My contact
-- [📧] Email:   givaldigumelarsetiawan@gmail.com
 
 
 <!--
