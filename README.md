@@ -18,7 +18,7 @@
     </td>
     <td align="left" >
       <a href="https://github.com/GforsZi">
-        <img src="https://skillicons.dev/icons?i=mysql,prisma,redis,supabase,firebase" />
+        <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis,supabase,firebase" />
       </a>
     </td>
   </tr>
@@ -30,7 +30,7 @@
     </td>
     <td align="left">
       <a href="https://github.com/GforsZi">
-        <img src="https://skillicons.dev/icons?i=laravel,express,fastapi,next" />
+        <img src="https://skillicons.dev/icons?i=laravel,express,fastapi,next,nestjs" />
       </a>
     </td>
   </tr>
@@ -43,7 +43,7 @@
     </td>
     <td align="left">
       <a href="https://github.com/GforsZi">
-        <img src="https://skillicons.dev/icons?i=git,bash,docker" />
+        <img src="https://skillicons.dev/icons?i=git,bash,docker,gcp" />
       </a>
     </td>
   </tr>
